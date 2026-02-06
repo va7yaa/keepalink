@@ -45,9 +45,9 @@ Running `make wine` will attempt to use wineg++ to cross-compile for Windows.
 Compiling on Windows should be possible with MSVC, but is untested. Pull
 requests welcome to add support!
 
-Licence
+License
 -------
 
-keepalink is released under the GNU General Public Licence, version 3 or later.
+keepalink is released under the GNU General Public License, version 3 or later.
 
 Copyright © 2019 Darryl Pogue
